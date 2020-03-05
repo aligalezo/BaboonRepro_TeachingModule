@@ -1,6 +1,6 @@
 # BaboonRepro_TeachingModule
 
-This teaching module was developed as a [Data Expedition](https://bigdata.duke.edu/data-expeditions) for Duke University.
+This teaching module was developed by Ali Galezo and Emily Levy as a [Data Expedition](https://bigdata.duke.edu/data-expeditions) for Duke University.
 
 This teaching module focuses on teaching undergraduate-level biologists 1) the basics of baboon reproduction and 2) the basics of using R programming for exploratory data analysis. Specifically, the module aims to reproduce Figure 1 from [Gesquire et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010). 
 
