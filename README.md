@@ -30,13 +30,13 @@ This lesson is designed for undergraduate students who have little to no exposur
 The dataset for this expedition is a subset of the long-term database of the [Amboseli Baboon Research Project](https://amboselibaboons.nd.edu/), a project co-directed by Drs. Jeanne Altmann, Susan Alberts, Beth Archie, and Jenny Tung. The Amboseli Baboon Research Project has collected demographic, behavioral, genetic, and endocrinological data on a population of wild baboons since 1971 in order to study questions related to animal behavior, life history, behavioral ecology, genetics, and physiology. The project’s database is managed by Jake Gordon at Duke University and Nicki Learn at Princeton University.
 
 #### <a name="the_dataset">The dataset</a>
-The unit of analysis for this dataset is a fecal estrogen sample for a cycling<sup>[1](#footnote1)</sup> female. For each fecal sample (n = 896), 6 variables are recorded:
-1. identity of the female baboon
-2. day of her reproductive cycle
-3. fecal estrogen concentration
-4. sexual swelling size<sup>[2](#footnote2)</sup>
-5. whether or not the female consorted<sup>[3](#footnote3)</sup> with an alpha male<sup>[4](#footnote4)</sup> on that day
-6. whether or not the female consorted with a non-alpha male on that day
+The unit of analysis for this dataset is a fecal estrogen sample for a cycling<sup>[1](#footnote1)</sup> female. For each fecal sample (n = 843), 6 variables are recorded:
+1. *female* - identity of the female baboon
+2. *cyle_day* - day of her reproductive cycle
+3. *estrogen* - fecal estrogen concentration
+4. *swelling_size* - sexual swelling size<sup>[2](#footnote2)</sup>
+5. *alpha_consort* - whether or not the female consorted<sup>[3](#footnote3)</sup> with an alpha male<sup>[4](#footnote4)</sup> on that day
+6. *nonalpha_consort* - whether or not the female consorted with a non-alpha male on that day
 
 This dataset includes data from 93 female baboons, with approximately 10 fecal estrogen samples per female. Minor differences between this dataset and the the dataset used in [Gesquire et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010) are due to small, incremental changes in the database over time. 
 
