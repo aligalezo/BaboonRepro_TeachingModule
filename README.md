@@ -21,7 +21,7 @@ The instructor is provided with a brief [Powerpoint presentation](BaboonReproduc
 
 Students can then work through the provided [R script](BaboonReproduction.R) and accompanying [dataset](baboon_data.csv) to test these predictions. The R script has instructions throughout for more advanced students to skip ahead. The instructor should walk students through most of the script, then let students work independently to complete *Data Visualization Part 2*. Students should fill out the [worksheet](BaboonReproduction_Worksheet.docs) as they go along.
 
-At the end of the R script, students will ultimately produce a replica of Figure 1 from [Gesquire et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010). This figure is included as the final slide of the [Powerpoint presentation](BaboonReproduction_Presentation.pptx). The end of the class session should be used to interpret the figure and discuss how it relates to the 2 project hypotheses.
+At the end of the R script, students will ultimately replicate Figure 1 from [Gesquire et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010). This figure is included as the final slide of the [Powerpoint presentation](BaboonReproduction_Presentation.pptx). The end of the class session should be used to interpret the figure and discuss how it relates to the 2 project hypotheses.
 
 #### Student level
 This lesson is designed for undergraduate students who have little to no exposure to R or other programming software. It could be easily adjusted for students who are familiar with R or other programming software. This lesson takes about 75 minutes to complete.
@@ -30,7 +30,7 @@ This lesson is designed for undergraduate students who have little to no exposur
 The dataset for this expedition is a subset of the long-term database of the [Amboseli Baboon Research Project](https://amboselibaboons.nd.edu/), a project co-directed by Drs. Jeanne Altmann, Susan Alberts, Beth Archie, and Jenny Tung. The Amboseli Baboon Research Project has collected demographic, behavioral, genetic, and endocrinological data on a population of wild baboons since 1971 in order to study questions related to animal behavior, life history, behavioral ecology, genetics, and physiology. The project’s database is managed by Jake Gordon at Duke University and Nicki Learn at Princeton University.
 
 #### <a name="the_dataset">The dataset</a>
-The unit of analysis for this dataset is a fecal estrogen sample for a cycling<sup>[1](#footnote1)</sup> female. For each fecal sample (n = 843), 6 variables are recorded:
+The unit of analysis for this dataset is a fecal estrogen sample from a cycling<sup>[1](#footnote1)</sup> female. For each fecal sample (n = 843), 6 variables are recorded:
 1. *female* - identity of the female baboon
 2. *cyle_day* - day of her reproductive cycle
 3. *estrogen* - fecal estrogen concentration
