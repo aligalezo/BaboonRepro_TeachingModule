@@ -2,7 +2,7 @@
 
 This teaching module was developed by Ali Galezo and Emily Levy as a [Data Expedition](https://bigdata.duke.edu/data-expeditions) for Duke University.
 
-This teaching module focuses on teaching undergraduate-level biologists 1) the basics of baboon reproduction and 2) the basics of using R programming for exploratory data analysis. Specifically, the module aims to reproduce Figure 1 from [Gesquire et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010). 
+This teaching module focuses on teaching undergraduate-level biologists 1) the basics of baboon reproduction and 2) the basics of using R programming for exploratory data analysis. Specifically, the module aims to reproduce Figure 1 from [Gesquiere et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010). 
 
 #### Learning objectives
 - Learn basics of exploratory data analysis (descriptive statistics, generating plots) in R
@@ -13,7 +13,7 @@ This teaching module focuses on teaching undergraduate-level biologists 1) the b
 #### Materials
 - [BaboonReproduction_Presentation.pptx](BaboonReproduction_Presentation.pptx) - presentation for instructor to introduce key hypotheses
 - [BaboonReproduction_Worksheet.docs](BaboonReproduction_Worksheet.docs) - worksheet for students to fill out throughout teaching module
-- [BaboonReproduction.R](BaboonReproduction.R) - R script that reproduces results from [Gesquire et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010)
+- [BaboonReproduction.R](BaboonReproduction.R) - R script that reproduces results from [Gesquiere et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010)
 - [baboon_data.csv](baboon_data.csv) - dataset (see [*the dataset*](#the_dataset) section below)
 
 #### Workflow
@@ -21,7 +21,7 @@ The instructor is provided with a brief [Powerpoint presentation](BaboonReproduc
 
 Students can then work through the provided [R script](BaboonReproduction.R) and accompanying [dataset](baboon_data.csv) to test these predictions. The R script has instructions throughout for more advanced students to skip ahead. The instructor should walk students through most of the script, then let students work independently to complete *Data Visualization Part 2*. Students should fill out the [worksheet](BaboonReproduction_Worksheet.docs) as they go along.
 
-At the end of the R script, students will ultimately replicate Figure 1 from [Gesquire et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010). This figure is included as the final slide of the [Powerpoint presentation](BaboonReproduction_Presentation.pptx). The end of the class session should be used to interpret the figure and discuss how it relates to the 2 project hypotheses.
+At the end of the R script, students will ultimately replicate Figure 1 from [Gesquiere et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010). This figure is included as the final slide of the [Powerpoint presentation](BaboonReproduction_Presentation.pptx). The end of the class session should be used to interpret the figure and discuss how it relates to the 2 project hypotheses.
 
 #### Student level
 This lesson is designed for undergraduate students who have little to no exposure to R or other programming software. It could be easily adjusted for students who are familiar with R or other programming software. This lesson takes about 75 minutes to complete.
@@ -38,7 +38,7 @@ The unit of analysis for this dataset is a fecal estrogen sample from a cycling<
 5. *alpha_consort* - whether or not the female consorted<sup>[3](#footnote3)</sup> with an alpha male<sup>[4](#footnote4)</sup> on that day
 6. *nonalpha_consort* - whether or not the female consorted with a non-alpha male on that day
 
-This dataset includes data from 93 female baboons, with approximately 10 fecal estrogen samples per female. Minor differences between this dataset and the the dataset used in [Gesquire et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010) are due to small, incremental changes in the database over time. 
+This dataset includes data from 93 female baboons, with approximately 10 fecal estrogen samples per female. Minor differences between this dataset and the the dataset used in [Gesquiere et al. 2007](https://doi.org/10.1016/j.yhbeh.2006.08.010) are due to small, incremental changes in the database over time. 
 
 #### Footnotes
 <a name="footnote1"><sup>1</sup></a> *cycling*: sexually mature but not pregnant or lactating  
